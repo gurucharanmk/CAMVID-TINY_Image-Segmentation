@@ -1,1 +1,1 @@
-# gurucharanmk-CAMVID-TINY_Image-Segmentation
+# CAMVID-TINY_Image-Segmentation
